@@ -1,0 +1,6 @@
+C:\Users\Lucas\Desktop\Soft\LocusParser\LocusParser\bin\Debug\LocusParser.exe.config
+C:\Users\Lucas\Desktop\Soft\LocusParser\LocusParser\bin\Debug\LocusParser.exe
+C:\Users\Lucas\Desktop\Soft\LocusParser\LocusParser\bin\Debug\LocusParser.pdb
+C:\Users\Lucas\Desktop\Soft\LocusParser\LocusParser\obj\Debug\LocusParser.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\Soft\LocusParser\LocusParser\obj\Debug\LocusParser.exe
+C:\Users\Lucas\Desktop\Soft\LocusParser\LocusParser\obj\Debug\LocusParser.pdb
